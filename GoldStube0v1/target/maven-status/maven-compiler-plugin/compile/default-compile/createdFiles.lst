@@ -1,0 +1,11 @@
+de\GoldStube\Gold\commands\VoteCommand.class
+de\GoldStube\Gold\Main.class
+de\GoldStube\Gold\commands\ForumCommand.class
+de\GoldStube\Gold\commands\DiscordCommand.class
+de\GoldStube\Gold\listener\PlayerQuit.class
+de\GoldStube\Gold\listener\PlayerJoin.class
+de\GoldStube\Gold\commands\VersionCommand.class
+de\GoldStube\Gold\commands\GamemodeCommand.class
+de\GoldStube\Gold\commands\GoldCommand.class
+de\GoldStube\Gold\commands\MainCommand.class
+de\GoldStube\Gold\commands\HelpCommand.class
